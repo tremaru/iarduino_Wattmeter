@@ -4,5 +4,5 @@
 
 > Подробнее про установку библиотеки читайте в нашей [инструкции](https://wiki.iarduino.ru/page/Installing_libraries/).
 
-<img src="http://iarduino.ru/img/upload/3b8e9ea5ece7d3163ff1f0dbffdc78b8.png" style="display: block; margin-left: auto; margin-right: auto; width: 50%;"></img>
+<img src="http://iarduino.ru/img/upload/913e1f1e141a9e4b182155189dece764.png" style="display: block; margin-left: auto; margin-right: auto; width: 50%;"></img>
 
